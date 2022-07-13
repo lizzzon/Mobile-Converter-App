@@ -1,6 +1,10 @@
 # Mobile Converter Application
 A 'Distance/Weight/Currency Converter' application
 
+## Screenshots
+### Start/Home page
+![home snap](https://github.com/lizzzon/Mobile-Converter-App/raw/main/mobile_converter_app/assets/screenshots/screenshot.jpg?raw=true)
+
 ## Tasks
 
 1. Minumum 3 different unit categories (distance, weight, currency, etc)
